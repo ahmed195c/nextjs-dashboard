@@ -9,6 +9,10 @@ export type User = {
   password: string;
 };
 
+export type List = {
+  names:string;
+}
+
 export type Customer = {
   id: string;
   name: string;
