@@ -8,11 +8,17 @@ const users = [
     password: '123456',
   },
   {
-    id: '312093481209-452314-213123432-0-',
-    name: 'ahmed',
+    id: '410234b2-4001-4271-9855-fec4b6a6442a',
+    name: 'ldfhmed',
     email: 'ahmedjinh7@gmail.com',
-    password: '3004040',
+    password: '300400',
   },
+  {
+    id: '410234b2-4001-0071-9855-fec4b6a6442a',
+    name: 'ldfhmeed',
+    email: 'ahmedjinh27@gmail.com',
+    password: '303400',
+  }
 ];
 
 const customers = [
@@ -74,6 +80,12 @@ const customers = [
     id: '13D07535-C59E-4157-A011-F8D2EF4E0CBB',
     name: 'Balazs Orban',
     email: 'balazs@orban.com',
+    image_url: '/customers/balazs-orban.png',
+  },
+  {
+    id: '13D07535-449E-4157-A011-F8D2EF4E0CBB',
+    name: 'aboozel',
+    email: 'abozle@orban.com',
     image_url: '/customers/balazs-orban.png',
   },
 ];
